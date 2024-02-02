@@ -1,8 +1,7 @@
-# React + Vite
+I am in love with ViteJS-React development environment, and when combined with React-Router the application routing is extremely efficient. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I followed this tutorial for this project: https://reactrouter.com/en/main/start/tutorial
 
-Currently, two official plugins are available:
+To start type: npm run
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![React-Router-Practice](https://github.com/iShallEatCode/React-Router-Practice/assets/84070418/cd356859-80b0-4129-9276-9c96e1c37592)
